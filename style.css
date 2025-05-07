@@ -1,0 +1,86 @@
+body {
+    background-color: #758E44;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lobster&family=Rubik+Gemstones&family=Rubik+Wet+Paint&display=swap');
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+}
+
+header {
+    background-color: #576F27;
+}
+
+footer {
+    border: 1px solid #3C5212;
+    padding: 0 10px 0 10px;
+    background-color: #3C5212;
+    color: white;
+}
+
+.telegram {
+    margin-left: 60%;
+}
+
+.mosquito img:hover {
+    transform: scale(1.2);
+    transition: 0.5s ease-in-out;
+    text-align: center;
+}
+
+.mosquito img{
+    transform: scale(1);
+    transition: 0.5s ease-in-out;
+    text-align: center;
+}
+
+.frog:hover {
+    transform: scale(1.2);
+    transition: 0.5s ease-in-out;
+}
+
+.frog img{
+    transform: scale(1);
+    transition: 0.5s ease-in-out;
+    text-align: center;
+}
+
+.rat:hover {
+    transform: scale(1.2);
+    transition: 0.5s ease-in-out;
+}
+
+.rat img{
+    transform: scale(1);
+    transition: 0.5s ease-in-out;
+    text-align: center;
+}
+
+.spider:hover {
+    transform: scale(1.2);
+    transition: 0.5s ease-in-out;
+}
+
+.spider img{
+    transform: scale(1);
+    transition: 0.5s ease-in-out;
+    text-align: center;
+}
+
+.text:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+.text {
+    transform: scale(1);
+    transition: 0.5s ease-in-out;
+}
